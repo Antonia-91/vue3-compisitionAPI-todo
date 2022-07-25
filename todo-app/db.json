@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "content": "test 01",
+      "category": "business",
+      "done": true,
+      "editable": false,
+      "createdAt": 1658779265893,
+      "id": 1
+    },
+    {
+      "content": "test 02",
+      "category": "personal",
+      "done": false,
+      "editable": false,
+      "createdAt": 1658780201180,
+      "id": 2
+    },
+    {
+      "content": "test 03",
+      "category": "business",
+      "done": false,
+      "editable": false,
+      "createdAt": 1658780208155,
+      "id": 3
+    },
+    {
+      "content": "test 04",
+      "category": "personal",
+      "done": false,
+      "editable": false,
+      "createdAt": 1658780217009,
+      "id": 4
+    }
+  ]
+}
